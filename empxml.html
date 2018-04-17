@@ -16,7 +16,7 @@
             url: "empdata.xml", 
             dataType: "xml",
             success: function(xml) {  
-             $(xml).find('data').each(function(){  
+             $(xml).find('employee').each(function(){  
               t.row.add( [
                 $(this).find('name').text(),
                 $(this).find('designation').text(),
