@@ -2,20 +2,20 @@
   <employees>
     <data>
       <name>Jesse Brand</name>
-      <position>Business Intelligence Analyst</designation>
-      <bonus>$100,000</salary>
-      <promotion_date>2018/05/25</joining_date>
+      <position>Business Intelligence Analyst</position>
+      <bonus>$100,000</bonus>
+      <promotion_date>2018/05/25</promotion_date>
     </data>
     <data>
       <name>James Bond</name>
-      <position>Spy</designation>
-      <bonus>$777,000</salary>
-      <promotion_date>2011/07/25</joining_date>
+      <position>Spy</position>
+      <bonus>$777,000</bonus>
+      <promotion_date>2011/07/25</promotion_date>
     </data>
     <data>
       <name>Charles Carmicheal</name>
-      <position>Technician</designation>
-      <bonus>$66,000</salary>
-      <promotion_date>2009/01/12</joining_date>
+      <position>Technician</position>
+      <bonus>$66,000</bonus>
+      <promotion_date>2009/01/12</promotion_date>
     </data>
   </employees>
